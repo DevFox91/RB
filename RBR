@@ -13,19 +13,19 @@
         {
           "name": "IPTV ROBIN HOOD",
           "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
-          "url": "https://raw.githubusercontent.com/Jojeda91/RB/main/RBC",
+          "url": "https://raw.githubusercontent.com/DevFox91/RB/main/RBC",
           "import": true
         },
         {
           "name": "ROBIN HOOD PELIS",
           "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
-          "url": "https://raw.githubusercontent.com/Jojeda91/RB/main/RBF",
+          "url": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
           "import": true
         },
         {
           "name": "LISTA EN PRUEBAS (fuera servicio)",
           "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
-          "url": "https://raw.githubusercontent.com/Jojeda91/RB/main/RBC",
+          "url": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
           "import": true
         }
       ]
