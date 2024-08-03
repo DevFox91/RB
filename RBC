@@ -32,17 +32,22 @@
             "stations": [{
                     "name": "La 1",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://fa79d8cea5689da7a69a5afd833690f4aa544cd3"
+                   	"url" :  "acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47"
                          }, {
 
                          "name": "LA 1 UHD",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
-                   	"url" :  "acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af"
+                   	"url" :  "acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666"
                          }, {
 
                          "name": "LA 2",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
                    	"url" :  "acestream://60106275d34f995e26bb2cc4a21a42f586c6c555"
+                         }, {
+
+                         "name": "Teledeporte",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f"
                          }, {
 
                          "name": "CUATRO 1080",
