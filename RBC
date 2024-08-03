@@ -123,6 +123,11 @@
             "image": "https://assets.laliga.com/assets/2021/07/26/xlarge/3fc92cb198e605c114ef33b27651d0ec.png",
             "info": "",
             "stations": [{
+
+                                    "name": "Movistar +",
+                    "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
+                   	"url" :  "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0"
+                         }, {
                                     "name": "M. LaLiga UHD",
                     "image": "https://cdn-icons-png.flaticon.com/512/2285/2285073.png",
                    	"url" :  "acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf"
