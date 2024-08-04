@@ -1,5 +1,5 @@
 {
-  "name": "ROBIN HOOD RAÍZ",
+  "name": "ROBIN HOOD IPTV RAÍZ",
   "author": "ROBIN HOOD - 03/08/2024",
   "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
   "url": "https://pastebin.com/UDmkEJeU",
@@ -11,7 +11,7 @@
       "image": "https://cdn-icons-png.flaticon.com/512/4911/4911823.png",
       "stations": [
         {
-          "name": "IPTV ROBIN HOOD",
+          "name": "ROBIN HOOD DEPORTES",
           "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
           "url": "https://raw.githubusercontent.com/DevFox91/RB/main/RBC",
           "import": true
