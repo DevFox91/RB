@@ -39,6 +39,18 @@
           "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
           "url": "https://af1c1onados.vercel.app/03.0.Menu.DepOrtEs.dIFerIDos.w3u",
           "import": true
+        },
+        {
+          "name": "DOCUMENTALES DEPORTIVOS",
+          "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
+          "url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
+          "import": true
+        },
+        {
+          "name": "INFO: DIFERIDO Y DOCUMENTALES ADMITEN PETICIONES",
+          "image": "https://play-lh.googleusercontent.com/7R1y-ndhCxzf_5FoRWtCkH8nySzjrjqFiWa_wSZy7CutB1g-k11Zp9wBnjGnN6FeLyzn=w240-h480-rw",
+          "url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
+          "import": true
         }
       ]
     }
