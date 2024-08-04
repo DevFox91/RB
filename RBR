@@ -1,15 +1,12 @@
 {
   "name": "ROBIN HOOD IPTV RAÍZ",
-  "author": "ROBIN HOOD - 03/08/2024",
+  "author": "ROBIN HOOD - 04/08/2024 - 13:15h",
   "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
   "url": "https://pastebin.com/UDmkEJeU",
   "telegram": "",
   "info": "NO COMPARTIR",
   "groups": [
     {
-      "name": "Listas Disponibles",
-      "image": "https://cdn-icons-png.flaticon.com/512/4911/4911823.png",
-      "stations": [
         {
           "name": "ROBIN HOOD DEPORTES",
           "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
@@ -52,7 +49,6 @@
           "url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
           "import": true
         }
-      ]
     }
   ]
 }
