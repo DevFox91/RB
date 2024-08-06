@@ -13,6 +13,12 @@
       "import": true
     },
     {
+      "name": "ACTUALIZADO DEPORTES 6/8/24",
+      "image": "https://cdn-icons-png.flaticon.com/256/2100/2100735.png",
+      "url": "WWW",
+      "import": true
+    },
+    {
       "name": "ROBIN HOOD DEPORTES",
       "image": "https://cdn-icons-png.flaticon.com/512/3408/3408629.png",
       "url": "https://raw.githubusercontent.com/DevFox91/RB/main/RBC",
