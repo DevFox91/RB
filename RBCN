@@ -1000,6 +1000,8 @@ https://cloud.streamingconnect.tv/hls/telearanda/telearanda.m3u8
 https://player.twitch.tv/?channel=canal9_soria&parent=tdtchannels.com&parent=www.tdtchannels.com
 #EXTINF:-1 tvg-name="Junta Castilla y León" tvg-logo="https://graph.facebook.com/juntadecastillayleon/picture?width=200&height=200" group-title="Castilla y León",Junta Castilla y León
 https://16escalones-live2.flumotion.com/chunks.m3u8
+#EXTINF:-1 tvg-name="GAMPER TV" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Cataluña",TV3 GEO CAT
+acestream://5c05217f1813045f2af2fe4ec77eb27b7f7deb6e
 #EXTINF:-1 tvg-name="TV3 GEO CAT" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Cataluña",TV3 GEO CAT
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 #EXTINF:-1 tvg-name="TV3 GEO" tvg-logo="https://graph.facebook.com/tv3/picture?width=200&height=200" group-title="Cataluña",TV3 GEO
